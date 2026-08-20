@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-n2b4q6.pulaucuansite.cfd/sitemap.xml
